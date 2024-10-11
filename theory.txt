@@ -1,0 +1,8 @@
+tag = <> </> opening and closing tag
+<p> = paragraph
+<span> = same as p tag 
+<h1>-<h6> = heading tag
+<br> = Line break
+<b><b/> = text bold => <strong> output same
+<img> = Image tag
+src = source attribute
